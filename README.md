@@ -25,14 +25,14 @@ Hold-attack toggle: H
 
 //Valheim legends
 First-skill: mouse 4
-Second-skill: alt + mouse 4
-Thirst-skill: shift + mouse 4
+Second-skill: left_alt + mouse 4
+Third-skill: mouse 5
 
 //BetterUI
 Hud-editor: F7
 
 ## Changelog
 
-1.2.6 - Final version
+1.2.6 - First stable
 
 -----
