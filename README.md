@@ -35,6 +35,6 @@ C:\Users\<name>\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\<profile nam
 ## Changelog
 
 1.2.6 - First stable
-1.2.7 - Github repo added, changed manifest and README.md
+1.2.7 - Github repo added, changed manifest and README.md, discord commit webhook
 
 -----
