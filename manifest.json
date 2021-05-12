@@ -1,8 +1,8 @@
 {
-  "name": "V_Modpack",
-  "description": "Modpack mainly for private server WIP",
-  "version_number": "1.2.6",
-	"website_url": "WIP",
+	"name": "V_Modpack",
+	"description": "Modpack mainly for private server WIP",
+	"version_number": "1.2.6",
+	"website_url": "https://discord.gg/MsBtnMhfyV",
 	"dependencies": [
 		"denikson-BepInExPack_Valheim-5.4.1001",
 		"ValheimModding-HookGenPatcher-0.0.2",

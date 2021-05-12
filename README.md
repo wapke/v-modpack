@@ -2,10 +2,11 @@
 ## Description
 idk this is just for my private server, and released to public.
 discord: v?#1574
+
 -----
 ## 🇮‌🇳‌🇸‌🇹‌🇦‌🇱‌🇱‌🇦‌🇹‌🇮‌🇴🇳‌
-Download it through r2modman
-or install manuallly
+### Thunderstore.io
+https://valheim.thunderstore.io/package/v/V_Modpack/
 
 You will need hotfix for invalid-placed icons, from nexus mods.
 https://drive.google.com/file/d/136tlHeG-_3lBUA8FFVjAWX3-t6mOrPnH/view
