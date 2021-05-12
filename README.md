@@ -17,19 +17,19 @@ C:\Users\<name>\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\<profile nam
 
 -----
 ## hotkeys
-//Build camera 
-Build-Camera toggle: L
+### Build camera 
+* Build-Camera toggle: L
 
-//Hold attack
-Hold-attack toggle: H
+### Hold attack
+* Hold-attack toggle: H
 
-//Valheim legends
-First-skill: mouse 4
-Second-skill: left_alt + mouse 4
-Third-skill: mouse 5
+### Valheim legends
+* First-skill: mouse 4
+* Second-skill: left_alt + mouse 4
+* Third-skill: mouse 5
 
-//BetterUI
-Hud-editor: F7
+### BetterUI
+* Hud-editor: F7
 
 ## Changelog
 
