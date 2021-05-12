@@ -39,3 +39,8 @@ you can always find it, in hotfix folder next to README.md
 - 1.2.7 
   - Github repo added, changed manifest and README.md, discord commit webhook
 -----
+
+## known bugs
+
+- You won't respawn after death, log out cause game crash
+
