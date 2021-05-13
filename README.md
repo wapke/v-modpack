@@ -11,9 +11,9 @@ https://valheim.thunderstore.io/package/v/V_Modpack/
 
 You will need hotfix for invalid assets folders for nexus mods, [download](https://drive.google.com/file/d/136tlHeG-_3lBUA8FFVjAWX3-t6mOrPnH/view)< here
 
-you can always find it, in hotfix folder next to README.md
+you can always find it in plugins folder next to README.md, then just paste them in dir described below
 
-### Place hotfix folder into 
+### Place folds from plugins folder into 
 ```C:\Users\<name>\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\<profile name>\BepInEx```
 
 -----
