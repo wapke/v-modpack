@@ -1,8 +1,8 @@
 
 ## Description
 #### This modpack is made for private server
-discord: https://discord.gg/rmvnTXrPv6
-github repo: https://github.com/wapke/v-modpack
+### discord: https://discord.gg/rmvnTXrPv6
+### github repo: https://github.com/wapke/v-modpack
 ---
 ## 🇮‌🇳‌🇸‌🇹‌🇦‌🇱‌🇱‌🇦‌🇹‌🇮‌🇴🇳‌
 ### Modpack link
