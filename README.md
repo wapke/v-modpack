@@ -27,7 +27,7 @@ you can always find it in plugins folder next to README.md, then just paste them
 ### Valheim legends
 * First-skill: mouse 4
 * Second-skill: left_alt + mouse 4
-* Third-skill: mouse 5
+* Third-skill: G
 
 ### BetterUI
 * Hud-editor: F7
@@ -46,6 +46,9 @@ you can always find it in plugins folder next to README.md, then just paste them
   - Stable release, removed gravestones
 - 1.3.1
   - Added targeting system mod
+- 1.3.2
+  - Changed "z" hotkey to "t" in quickslots mod
+  - Changed hotkeys in valheim legends mod
 -----
 
 ## known bugs
