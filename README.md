@@ -1,8 +1,8 @@
 
 ## Description
-#### This modpack is made for private server
-#### i made it in 17 hours straight so it can be buggy
-#### all bug reports here:
+ > This modpack is ment for my private server.
+ > > I made it in 17 hours straight so it can be buggy
+### all bug reports here:
 ### >> [discord server join](https://discord.gg/rmvnTXrPv6) <<
 ### github repo: https://github.com/wapke/v-modpack
 ---
