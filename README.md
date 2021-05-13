@@ -44,6 +44,8 @@ you can always find it, in hotfix folder next to README.md
   - hotfixes
 - 1.3.0
   - Stable release, removed gravestones
+- 1.3.1
+  - Added targeting system mod
 -----
 
 ## known bugs
