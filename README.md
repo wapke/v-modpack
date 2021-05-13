@@ -38,6 +38,10 @@ you can always find it, in hotfix folder next to README.md
   - First stable
 - 1.2.7 
   - Github repo added, changed manifest and README.md, discord commit webhook
+ - 1.2.8 
+  - hotfixes
+- 1.2.9 
+  - hotfixes
 -----
 
 ## known bugs
