@@ -11,7 +11,7 @@
 https://valheim.thunderstore.io/package/v/V_Modpack/
 
 
-You will need hotfix for invalid assets folders for nexus mods, [download](https://drive.google.com/file/d/136tlHeG-_3lBUA8FFVjAWX3-t6mOrPnH/view)< here
+You will need hotfix for invalid assets folders which causes gui to broke and game to crash [download](https://drive.google.com/file/d/136tlHeG-_3lBUA8FFVjAWX3-t6mOrPnH/view)< here
 
 you can always find it in plugins folder next to README.md, then just paste them in dir described below
 
