@@ -51,6 +51,8 @@ you can always find it in plugins folder next to README.md, then just paste them
 - 1.3.2
   - Changed "z" hotkey to "t" in quickslots mod
   - Changed hotkeys in valheim legends mod
+- 1.3.3
+  - removed some mods to improve stability
 -----
 
 ## known bugs
