@@ -58,6 +58,9 @@ you can always find it in plugins folder next to README.md, then just paste them
   - Best stable version of V-Modpack here!
   - Discord is here! Complete integration with in-game chat and github commits!
   - Removed some mods to improve integrity and game stability
+- 2.1.1
+  - Bringed back BetterUI, now stable
+  - EpicLoot stable now
 -----
 
 ## known bugs
