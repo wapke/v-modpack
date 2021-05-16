@@ -1,6 +1,6 @@
 {
 	"name": "V_Modpack",
-	"description": "Modpack mainly for private server WIP",
+	"description": "Modpack for PL Dedicated server, join Discord for github repo, you can commit:D",
 	"version_number": "2.0.1",
 	"website_url": "https://discord.gg/MsBtnMhfyV",
 	"dependencies": [
