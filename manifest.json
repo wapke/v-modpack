@@ -1,7 +1,7 @@
 {
 	"name": "V_Modpack",
 	"description": "Modpack mainly for private server WIP",
-	"version_number": "1.3.3",
+	"version_number": "2.0.1",
 	"website_url": "https://discord.gg/MsBtnMhfyV",
 	"dependencies": [
 		"denikson-BepInExPack_Valheim-5.4.1001",
@@ -30,7 +30,6 @@
 		"abearcodes-SimpleRecycling-0.0.13",
 		"MaGic-Quick_Deposit-1.0.1",
 		"gittywithexcitement-Build_Camera-1.5.0",
-		"Masa-BetterUI-2.0.2",
 		"JotunnLibTeam-JotunnLib-0.1.6",
 		"LordHayzeReupload-MoreGates-1.0.7",
 		"mtnewton-ItemStacks-1.2.0",
