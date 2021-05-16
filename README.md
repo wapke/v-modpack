@@ -28,13 +28,12 @@ you can always find it in plugins folder next to README.md, then just paste them
 ### Hold attack
 * Hold-attack toggle: H
 
-### Valheim legends
-* First-skill: mouse 4
-* Second-skill: left_alt + mouse 4
-* Third-skill: G
+### Combat Target Lock
+* Target-lock toggle: F8
+* Camera-lock toggle: F9
 
-### BetterUI
-* Hud-editor: F7
+### First Person View
+* FPV toggle: F10
 
 ## Changelog
 
@@ -63,5 +62,4 @@ you can always find it in plugins folder next to README.md, then just paste them
 
 ## known bugs
 
-- You won't respawn after death, log out cause game crash
-
+- Build Camera doesn't work, L enables it but you won't move
