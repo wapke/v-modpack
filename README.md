@@ -53,6 +53,10 @@ you can always find it in plugins folder next to README.md, then just paste them
   - Changed hotkeys in valheim legends mod
 - 1.3.3
   - removed some mods to improve stability
+- 2.0.1 
+  - Best stable version of V-Modpack here!
+  - Discord is here! Complete integration with in-game chat and github commits!
+  - Removed some mods to improve integrity and game stability
 -----
 
 ## known bugs
