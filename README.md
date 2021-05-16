@@ -2,9 +2,11 @@
 ## Description
  > This modpack is ment for my private server.
  > > I made it in 17 hours straight so it can be buggy
+ > > > update: i spent already 15 more hours to fix everything but now it's stable
 ### all bug reports here:
 ### >> [discord server join](https://discord.gg/rmvnTXrPv6) <<
 ### github repo: https://github.com/wapke/v-modpack
+#### feel free to *push* project
 ---
 ## 🇮‌🇳‌🇸‌🇹‌🇦‌🇱‌🇱‌🇦‌🇹‌🇮‌🇴🇳‌
 ### Modpack link
